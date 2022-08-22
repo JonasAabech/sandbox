@@ -1,2 +1,2 @@
 # sandbox
-Test for lagring
+Test for lagring.
